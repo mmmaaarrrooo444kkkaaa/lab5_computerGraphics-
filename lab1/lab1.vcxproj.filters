@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="lab4.cpp">
+    <ClCompile Include="lab5.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
     <ClCompile Include="glew-2.1.0\src\glew.c">
@@ -28,6 +28,9 @@
   <ItemGroup>
     <ClInclude Include="ShaderLoader.h">
       <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="Model.h">
+      <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
